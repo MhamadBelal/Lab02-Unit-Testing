@@ -2,7 +2,7 @@
 
 The ATM Console Application is a mock implementation of an ATM machine. It provides basic functionality such as checking the account balance, withdrawing cash, and depositing cash. The application is built using Test Driven Development (TDD) and follows the principles of clean code and SOLID design.
 
-![ATM Console Application](./atm_screenshot.png)
+![ATM Console Application](./atm_screenshot.PNG)
 
 ## Table of Contents
 
