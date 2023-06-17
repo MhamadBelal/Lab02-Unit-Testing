@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab02-Unit-Testing\ATMConsole\bin\Debug\net7.0\ATMConsole.exe
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab02-Unit-Testing\ATMConsole\bin\Debug\net7.0\ATMConsole.deps.json
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab02-Unit-Testing\ATMConsole\bin\Debug\net7.0\ATMConsole.runtimeconfig.json
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab02-Unit-Testing\ATMConsole\bin\Debug\net7.0\ATMConsole.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab02-Unit-Testing\ATMConsole\bin\Debug\net7.0\ATMConsole.pdb
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab02-Unit-Testing\ATMConsole\obj\Debug\net7.0\ATMConsole.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab02-Unit-Testing\ATMConsole\obj\Debug\net7.0\ATMConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab02-Unit-Testing\ATMConsole\obj\Debug\net7.0\ATMConsole.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab02-Unit-Testing\ATMConsole\obj\Debug\net7.0\ATMConsole.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab02-Unit-Testing\ATMConsole\obj\Debug\net7.0\ATMConsole.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab02-Unit-Testing\ATMConsole\obj\Debug\net7.0\ATMConsole.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab02-Unit-Testing\ATMConsole\obj\Debug\net7.0\refint\ATMConsole.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab02-Unit-Testing\ATMConsole\obj\Debug\net7.0\ATMConsole.pdb
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab02-Unit-Testing\ATMConsole\obj\Debug\net7.0\ATMConsole.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab02-Unit-Testing\ATMConsole\obj\Debug\net7.0\ref\ATMConsole.dll
