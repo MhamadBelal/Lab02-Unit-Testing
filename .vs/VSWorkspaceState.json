@@ -4,6 +4,10 @@
     "\\ATMConsole",
     "\\UnitTestingProject"
   ],
+<<<<<<< HEAD
+  "SelectedNode": "\\README.md",
+=======
   "SelectedNode": "\\ATMConsole\\Program.cs",
+>>>>>>> 9084291c7b3324bb8d292f2f62f8c2b8a0d89111
   "PreviewInSolutionExplorer": false
 }
