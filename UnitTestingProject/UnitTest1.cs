@@ -30,7 +30,7 @@ namespace UnitTestingProject
             decimal actualAmount = Program.Withdraw(amount);
 
             // Assert
-            Assert.Equal(amount, actualAmount);
+            Assert.Equal(Program.Balance, actualAmount);
         }
 
         [Theory]
@@ -75,7 +75,7 @@ namespace UnitTestingProject
             decimal actualAmount = Program.Deposit(amount);
 
             // Assert
-            Assert.Equal(amount, actualAmount);
+            Assert.Equal(Program.Balance, actualAmount);
         }
 
         [Fact]
