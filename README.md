@@ -67,7 +67,7 @@ Here are some examples of how to use the ATM Console Application:
 	> 2
 	Enter the amount to withdraw:
 	> 500.00
-	Successfully withdrew $500.00
+	Your Balance now is $500.00
 
 3. Depositing Cash:
 
@@ -78,7 +78,7 @@ Here are some examples of how to use the ATM Console Application:
 	> 3
 	Enter the amount to deposit:
 	> 200.00
-	Successfully deposited $200.00
+	Your Balance now is $700.00
 
 4. Quitting the Application:
 
