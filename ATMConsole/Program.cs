@@ -32,7 +32,7 @@
                         decimal withdrawAmount = Convert.ToDecimal(Console.ReadLine());
                         decimal withdrawnAmount = Withdraw(withdrawAmount);
                         if (withdrawnAmount >= 0)
-                            Console.WriteLine($"Successfully withdrew {withdrawnAmount:C}");
+                            Console.WriteLine($"Your Balance now is {withdrawnAmount:C}");
                         else if (withdrawnAmount == -1)
                             Console.WriteLine("Insufficient funds");
                         else
@@ -43,7 +43,7 @@
                         decimal depositAmount = Convert.ToDecimal(Console.ReadLine());
                         decimal depositedAmount = Deposit(depositAmount);
                         if (depositedAmount >= 0)
-                            Console.WriteLine($"Successfully deposited {depositedAmount:C}");
+                            Console.WriteLine($"Your Balance now is {depositedAmount:C}");
                         else
                             Console.WriteLine("Invalid amount");
                         break;
@@ -77,7 +77,7 @@
             }
 
             Balance -= amount;
-            return amount;
+            return Balance;
         }
 
         public static decimal Deposit(decimal amount)
@@ -88,7 +88,7 @@
             }
 
             Balance += amount;
-            return amount;
+            return Balance;
         }
 
 
